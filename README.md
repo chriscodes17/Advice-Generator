@@ -44,7 +44,7 @@ This was my first time using Vite as a bundler for making React web apps, so I l
 
 ### Continued development
 
-I would like to continue to develop my CSS which includes learning SASS for managing my CSS, responsive web layouts and making apps accessible. 
+I would like to continue to develop my CSS knowledge and skills which includes learning SASS for managing my CSS, responsive web layouts and making apps accessible.
 
 
 ### Useful resources
